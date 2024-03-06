@@ -1,61 +1,45 @@
-#main div{
-    border: solid 2px;
-    border-color: pink;
-    border-color: black;
-    margin: 30%;
-    padding: 5px;
+#container{
+    margin-right:75px ;
+    margin: 18px;
+    
+    
     }
-   
-    .owlee{
-    width: 20%;
-    height: auto;
-    float: left;
-    float: inline-start;
-    border: transparent 1px;
-    margin-top: none;
+    button{
+     padding: 10px 14px;
+     background: rgb(128, 9, 240);
+    border-radius:50px;
+    margin:18px;
+    border:none;
+    float:left;
+    height:30px;
+    
     }
-   
-    #div2{
-        border: solid 1px;
-        padding: 20px;
-        margin: 5%;
-        border: rgb(247, 212, 217);
-        height: 900px;
-        background-color: rgb(245, 218, 239);
-    }
-   
-    #div3{
-        padding: 20px;
-        margin: auto;
-        margin-top: 5%;
-        margin-bottom: 50%;
-        border: aliceblue;
-        height: 700px;
-        width: 80%;
-        border-radius: 50px;
-        background-color: aliceblue;
-       
-    }
-   
-    .nav{
-        float: right;
-        margin-top: 2%;
-       
-    }
-   
-    #nav1{
-    text-decoration: none;
+    h1{
     color: black;
-   
+    font-size:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    
     }
-   
-    #button{
-        color: aliceblue;
-        font-style: normal;
-        border-radius: 15px;
-        background-color: rgb(131, 72, 187);
-        padding: 7px;
-        width: 15%;
-       
+    h4{
+    color: rgb(128, 9, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: bold;
+    font-size:20px;
+    font-style:impact,Sans-serif
+    
     }
- 
+    
+    p{
+    color :blueviolet;
+    font-style: unset;
+    font-size:18px;
+    
+    }
+    #container2{
+    padding:10px 14px;
+    width: 55px;
+    float: bottom;
+    float:right ;
+    float: left;
+    
+    }
